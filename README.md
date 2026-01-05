@@ -1,4 +1,4 @@
-# Godot98
+# inDot
 A project that aims to convert Godot 4 (and maybe Godot 3) projects to SDL 1.2, which can run on systems that don't support OpenGL 3.3 and can run on systems as old as Windows 95 (although my focus is to run it on Windows 98).
 
 # How it will work
